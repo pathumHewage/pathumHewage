@@ -32,6 +32,7 @@
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
+[<img align="left" alt="postman" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fvecta.io%2Fsymbols%2F92%2Fbrands-pj-pz%2F21%2Fpostman-icon&psig=AOvVaw3mln1AvRNKzl0-udmUWOa1&ust=1641029365450000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOD8zfbcjfUCFQAAAAAdAAAAABAD" />][webdevplaylist]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
 <br />
